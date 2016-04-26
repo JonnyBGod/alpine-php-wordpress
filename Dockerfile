@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM sillelien/base-alpine:0.10
 MAINTAINER Etopian Inc. <contact@etopian.com>
 
 LABEL   devoply.type="site" \
